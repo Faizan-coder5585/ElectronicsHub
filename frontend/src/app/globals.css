@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.price-img {
+    clip-path: polygon(0 0, 86% 0, 100% 100%, 0 100%, 0 54%);
+}
+
+.Special-img {
+    clip-path: polygon(14% 0, 100% 0%, 100% 100%, 24% 100%);
+}
