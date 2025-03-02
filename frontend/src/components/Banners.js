@@ -2,6 +2,7 @@
 import Image from "next/image"; 
 import bannerOne from "../../public/bannerOne.jpg"
 import bannerTwo from "../../public/bannerTwo.jpg"
+this is an example
 
 const Banners = () => {
     return (
